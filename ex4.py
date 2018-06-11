@@ -16,3 +16,5 @@ print("We have", passengers, "to carpool today.")
 print("We need to put about", average_passengers_per_car, "in each car.")
 
 # = is an assignment operator; == is a comparison operator
+#obvious difference between P and JS------ no let or const, just the variable name
+#good form to make spaces between the =. Easier to read
