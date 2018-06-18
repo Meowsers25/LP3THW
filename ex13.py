@@ -1,5 +1,5 @@
 # script is another name for Python files
-
+# sys is a module
 from sys import argv
 # read the WYSS section for how to run this
 script, first, second, third = argv
